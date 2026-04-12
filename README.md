@@ -133,3 +133,6 @@ This program helps beginners understand:
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="635" height="861" alt="image" src="https://github.com/user-attachments/assets/ba4cd9f1-f793-40d9-93f6-555be7762598" />
+
