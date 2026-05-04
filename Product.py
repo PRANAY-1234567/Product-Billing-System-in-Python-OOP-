@@ -1,4 +1,5 @@
 class Product:
+    
     def __init__(self):
         self.discr = ""
         self.rate = 0.0
