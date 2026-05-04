@@ -128,7 +128,8 @@ This program helps beginners understand:
 * Apply different discount rates
 * Generate total bill for multiple items
 
----
+--
+
 
 ## 📄 License
 
