@@ -26,7 +26,6 @@ class Product:
         print(f"Discount    :{self.disc:12.2f}")
         print(f"Net amount  :{self.net:12.2f}")
 
-
 product = Product()
 product.setData("Notebook 180pg", 56.60, 12)
 product.process()
